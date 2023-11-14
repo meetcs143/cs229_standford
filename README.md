@@ -4,7 +4,7 @@
 
 1. This is my attempt to learn Machine learning from Standford course CS229.
 2. Lecture notes and Problem sets are available at: https://cs229.stanford.edu/summer2020/
-3. Lectures are avaible on youtube: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+3. Lectures are available on youtube: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 
 # What this repo will contain?
