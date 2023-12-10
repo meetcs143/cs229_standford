@@ -1,6 +1,7 @@
 import numpy as np
 import util
 import matplotlib.pyplot as plt
+import os
 
 
 def main(lr, train_path, eval_path, save_path):
